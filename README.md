@@ -14,5 +14,6 @@ Click the pads or press keyboard keys to play drum sounds.
 - JavaScript
 
 ## Screenshot
-screenshot.png
+![Screenshot of Drumkit](screenshot.png)
+
 
